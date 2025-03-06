@@ -1,6 +1,7 @@
 # HexaDB
 
 A very simple in-memory database implemented in C++.
+![large-removebg-preview](https://github.com/user-attachments/assets/1c1e56ac-e524-4c19-af68-847736e6e80d)
 
 ## Description
 
