@@ -1,4 +1,4 @@
-![Architecture of HexaDB - visual selection](https://github.com/user-attachments/assets/8c2fb406-8bbc-424c-a732-2d4abcaae504)<p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/1c1e56ac-e524-4c19-af68-847736e6e80d" alt="logo" width=500>
 </p>
 
@@ -20,7 +20,7 @@ g++ -o hexadb main -std=c++17
 ```
 
 # Architecture
-
+![Architecture of HexaDB - visual selection](https://github.com/user-attachments/assets/8c2fb406-8bbc-424c-a732-2d4abcaae504)
 
 ## Features
 
