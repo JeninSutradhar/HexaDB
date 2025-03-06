@@ -8,7 +8,7 @@ A very simple and Fast **in-memory** database implemented in **C++**.
 
 ## Description
 
-HexaDB is a basic command-line database system that supports creating tables, inserting, selecting, updating, and deleting rows. It also supports indexing and saving/loading databases to/from files.  This is a learning project and is not intended for production use.
+HexaDB is a basic command-line database system that supports creating tables, inserting, selecting, updating, and deleting rows. It also supports indexing and saving/loading databases to/from files.
 
 ## Compilation and Running
 
