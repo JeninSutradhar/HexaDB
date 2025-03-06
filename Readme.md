@@ -1,10 +1,10 @@
-# HexaDB
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c1e56ac-e524-4c19-af68-847736e6e80d" alt="logo" width=500>
+</p>
+
 
 A very simple and Fast **in-memory** database implemented in **C++**.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1c1e56ac-e524-4c19-af68-847736e6e80d" alt="logo" width=300>
-</p>
 
 ## Description
 
