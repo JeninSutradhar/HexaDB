@@ -15,7 +15,7 @@ HexaDB is a basic command-line database system that supports creating tables, in
 To compile and run the code, you'll need a C++ compiler that supports C++17 (or later).  g++ is recommended.
 
 ```bash
-g++ -o hexadb main.cpp
+g++ -o hexadb main -std=c++17
 ./hexadb
 ```
 
