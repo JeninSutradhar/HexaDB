@@ -15,6 +15,9 @@ g++ -o hexadb main.cpp
 ./hexadb
 ```
 
+# Architecture
+![Architecture of HexaDB - visual selection](https://github.com/user-attachments/assets/7e755d14-cc22-4858-829c-700caee1e08d)
+
 
 ## Features
 
