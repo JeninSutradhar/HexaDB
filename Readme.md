@@ -47,4 +47,4 @@ LOAD DB my_database.data
 ```
 
 Type `help` in the HexaDB terminal for a list of commands. Type `exit` to quit.
-```
+
