@@ -28,7 +28,7 @@ g++ -o hexadb main -std=c++17
 *   **CRUD Operations:**  Supports INSERT, SELECT, UPDATE, and DELETE operations with basic WHERE clause filtering.
 *   **Indexing:**  Create indexes on columns to potentially speed up queries.
 *   **Persistence:** Save and load databases to/from files.
-*   **Command-Line Interface:** Interact with the database using SQL-like commands.
+*   **SQL:** Interact with the database using SQL-like commands.
 
 ## Example Usage
 
