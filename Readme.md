@@ -79,7 +79,7 @@ An AI-powered in-memory relational database system that supports SQL-like operat
     *   [Dependencies](#104-dependencies)
 11. [Limitations and Considerations](#11-limitations-and-considerations)
 12. [Troubleshooting](#12-troubleshooting)
-13. ![Contributing](#13-contributing)
+13. [Contributing](#13-contributing)
 ---
 ## 1. Introduction
 
