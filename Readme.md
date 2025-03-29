@@ -386,6 +386,8 @@ The `WHERE` clause is used in `SELECT`, `UPDATE`, and `DELETE` statements to fil
 
 The NLP feature allows users to execute database operations by typing queries in plain English instead of strict SQL. HexaDB uses the Google Gemini API to translate these natural language requests into SQL queries.
 
+![carbo2](https://github.com/user-attachments/assets/377f6346-94ff-4cfc-9bbe-571ac97ffc0a)
+
 ### 6.2 Usage
 
 Prefix your natural language query with the `NLP` keyword:
