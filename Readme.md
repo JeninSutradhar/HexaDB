@@ -81,6 +81,7 @@ An AI-powered in-memory relational database system that supports SQL-like operat
 ### 1.1 What is HexaDB?
 
 HexaDB is a lightweight, in-memory relational database system implemented in C++. It provides basic SQL-like functionality for creating tables, inserting, querying, updating, and deleting data. Its distinguishing feature is the integration with Google's Gemini Large Language Model (LLM) to allow users to interact with the database using natural language queries, which are then translated into SQL.
+![diagram-export-3-29-2025-12_37_11-PM](https://github.com/user-attachments/assets/acbdebcd-8f80-44b9-be68-10f4c5060271)
 
 ### 1.2 Key Features
 
@@ -146,6 +147,7 @@ You should see the welcome message and the `HexaDB>` prompt.
 ---
 
 ## 3. Architecture
+![architecture](https://github.com/user-attachments/assets/4af3d5b2-532f-4edd-a84d-507c153bb954)
 
 HexaDB consists of several key components working together:
 
@@ -192,6 +194,7 @@ HexaDB consists of several key components working together:
 10. `Database` parses and executes the SQL query, modifying the in-memory data structures.
 11. Results (if any, e.g., from `SELECT`) or confirmation messages are printed to the CLI by the `Database` execution logic.
 12. The executed NL query and generated SQL are added to the `NLPProcessor`'s command history.
+![instruction_flow](https://github.com/user-attachments/assets/6e332339-4201-4adb-beeb-dcc855242b5a)
 
 ---
 
