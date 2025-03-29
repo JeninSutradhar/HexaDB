@@ -79,6 +79,7 @@ An AI-powered in-memory relational database system that supports SQL-like operat
     *   [Dependencies](#104-dependencies)
 11. [Limitations and Considerations](#11-limitations-and-considerations)
 12. [Troubleshooting](#12-troubleshooting)
+13. ![Contributing](#13-contributing)
 ---
 ## 1. Introduction
 
@@ -458,3 +459,7 @@ Uses `libcurl` to send HTTPS POST requests (with schema/history/query in JSON) t
 *   **SQL Syntax Errors**: Check spacing, keywords, parentheses, commas; refer to SQL Reference; remember limitations.
 
 ---
+
+## 13. Contributing
+
+We welcome contributions to HexaDB! As an educational project and prototype, there's plenty of room for improvement and new features. Whether it's fixing bugs, enhancing the SQL parser, improving the NLP integration, adding more robust error handling, writing tests, or improving this documentation, your help is appreciated. Please feel free to fork the repository, create a feature branch, and submit a pull request. If you find an issue or have a feature suggestion, please open an issue in the project's issue tracker first to discuss it. Thank you for considering contributing!
