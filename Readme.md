@@ -1,5 +1,7 @@
+![large-removebg-preview](https://github.com/user-attachments/assets/75d0f6fe-07c9-4f9b-a5fc-3cafea265563)
 # HexaDB 
 An AI-powered in-memory relational database system that supports SQL-like operations, enhanced with AI-based natural language processing
+![diagram-export-3-29-2025-12_56_06-PM](https://github.com/user-attachments/assets/f1bc336b-d20e-407a-96d4-5ee4e3076cf8)
 
 **Version:** 1.0 (Hypothetical)
 **Author:** j.sutradhar@symbola.io 
