@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/75d0f6fe-07c9-4f9b-a5fc-3cafea265563" alt="Screenshot_20241228_102517" width=200>
+  <img src="https://github.com/user-attachments/assets/75d0f6fe-07c9-4f9b-a5fc-3cafea265563" alt="logo" width=300>
 </p>
 
 # HexaDB 
